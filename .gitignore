@@ -1,0 +1,23 @@
+# Ignore Python cache/bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore virtual environments
+myenv/
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled libraries
+*.so
+*.dll
+*.dylib
+
+# Ignore logs
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore your custom "module" folder
+module/
